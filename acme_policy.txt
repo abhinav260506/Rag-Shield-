@@ -1,0 +1,9 @@
+
+    ACME Corporation Security Policy 2026.
+    Chapter 1: Remote Work Access.
+    Employees accessing internal servers must connect via Multi-Factor Authentication (MFA) and VPN.
+    
+    Chapter 2: Data Encryption Guidelines.
+    All customer databases must be encrypted at rest using AES-256 encryption algorithm.
+    The primary database backup is stored in AWS US-East-1 region.
+    
